@@ -1,0 +1,1 @@
+== -o arm32bit_os.iso --dtb=./iso_arm32bit/boot/vexpress-v2p-ca9.dtb ./iso_arm32bit
