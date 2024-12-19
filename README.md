@@ -159,6 +159,11 @@ $ tar xJvf linux-5.4.277.tar.xz
 $ cd linux-5.4.277
 $ make clean && make distclean
 
+
+// with source code indexing
+// $ make <..._defconfig> <ARCH=...> <...> tags cscope
+
+
 (x86_64)
 $ make defconfig
 $ make -j4
